@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-crash-course",
+  "version": "1.0.0",
+  "description": "NodeJS Crash Course Reference",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arigatopix/nodejs-crash-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arigatopix/nodejs-crash-course/issues"
+  },
+  "homepage": "https://github.com/arigatopix/nodejs-crash-course#readme",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
